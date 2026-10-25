@@ -1,0 +1,8 @@
+# Install CUDA torch/torchvision separately; see docs/setup-status.md.
+transformers==4.57.1
+ultralytics==8.4.12
+pycocotools
+opencv-python
+matplotlib
+pyarrow
+timm
